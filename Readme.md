@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WebApplication1/Default.aspx)
+* [Default.aspx.cs](./CS/WebApplication1/Default.aspx.cs)
+* [MyObject.cs](./CS/WebApplication1/MyObject.cs)
+<!-- default file list end -->
 # ASPxGridView - How to get the number of selected rows when the selected row is deleted from a database
 
 

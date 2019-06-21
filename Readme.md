@@ -6,6 +6,9 @@
 * [MyObject.cs](./CS/WebApplication1/MyObject.cs)
 <!-- default file list end -->
 # ASPxGridView - How to get the number of selected rows when the selected row is deleted from a database
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4486)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to get a number of selected rows when a selected row is deleted from the database. <br />

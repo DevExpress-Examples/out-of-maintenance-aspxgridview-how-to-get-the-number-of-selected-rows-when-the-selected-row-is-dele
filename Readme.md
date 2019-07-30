@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # ASPxGridView - How to get the number of selected rows when the selected row is deleted from a database
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4486)**
+**[[Run Online]](https://codecentral.devexpress.com/e4486/)**
 <!-- run online end -->
 
 

@@ -38,7 +38,7 @@ Partial Public Class WebForm1
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents grid As Global.DevExpress.Web.ASPxGridView.ASPxGridView
+    Protected WithEvents grid As Global.DevExpress.Web.ASPxGridView
 
     '''<summary>
     '''btnDeleteSelectedRows control.
@@ -47,7 +47,7 @@ Partial Public Class WebForm1
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents btnDeleteSelectedRows As Global.DevExpress.Web.ASPxEditors.ASPxButton
+    Protected WithEvents btnDeleteSelectedRows As Global.DevExpress.Web.ASPxButton
 
     '''<summary>
     '''btnGetSelectedRowCount control.
@@ -56,5 +56,5 @@ Partial Public Class WebForm1
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents btnGetSelectedRowCount As Global.DevExpress.Web.ASPxEditors.ASPxButton
+    Protected WithEvents btnGetSelectedRowCount As Global.DevExpress.Web.ASPxButton
 End Class

@@ -28,7 +28,7 @@ namespace WebApplication1 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxGridView.ASPxGridView grid;
+        protected global::DevExpress.Web.ASPxGridView grid;
         
         /// <summary>
         /// btnDeleteSelectedRows control.
@@ -37,7 +37,7 @@ namespace WebApplication1 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnDeleteSelectedRows;
+        protected global::DevExpress.Web.ASPxButton btnDeleteSelectedRows;
         
         /// <summary>
         /// btnGetSelectedRowCount control.
@@ -46,6 +46,6 @@ namespace WebApplication1 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnGetSelectedRowCount;
+        protected global::DevExpress.Web.ASPxButton btnGetSelectedRowCount;
     }
 }
